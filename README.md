@@ -44,5 +44,5 @@ GROUP BY<br/>
 	 CONCAT(sta.first_name,' ',sta.last_name)<br/>
    <br/>
    
- Below is the resulting dataset and analysis in Microsoft Excel<br/>
+ **Below is the resulting dataset and analysis in Microsoft Excel**<br/>
  [Bike Stores.xlsx](https://github.com/Star2401/SQL_Bike_Store_Data/files/11629995/Bike.Stores.xlsx)
